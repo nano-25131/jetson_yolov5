@@ -30,7 +30,11 @@ sudo apt-get install python3-pip libopenblas-base libopenmpi-dev
 pip install torch-1.8.0-cp36-cp36m-linux_aarch64.whl
 ```
 
-验证安装成功与否时出现
+验证安装
+
+import torch
+
+成功与否时出现
 
 core dump
 
